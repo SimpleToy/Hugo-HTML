@@ -1,5 +1,13 @@
 body{
-    background-color:chartreuse;
+    background-color:gold;
 }
 h1{
-    text-align: center:
+    text-align: center;
+    font-size: 50px;
+    color:orangered;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+    color:black
+}
